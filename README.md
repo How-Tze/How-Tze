@@ -34,6 +34,10 @@ The emphasis is not technology for its own sake, but research infrastructure tha
 
 A configuration-driven Python demonstration for managing structured opportunities. Using entirely synthetic data, it combines validation, duplicate detection, configurable prioritization, deadline and risk logic, automated Excel reporting, and pytest-based testing in a reproducible workflow.
 
+### [Survey Harmonization Toolkit](https://github.com/How-Tze/survey-harmonization-toolkit)
+
+An audit-first Python toolkit for heterogeneous CSV, SPSS, and Stata survey files. It audits metadata, schemas, coverage, missingness, and routing; applies only explicit researcher-reviewed mappings and bounded transformations; blocks ambiguous or unavailable mappings; and produces validated harmonized output with provenance. It does not claim automatic semantic or measurement equivalence.
+
 ### AI-assisted research resources
 
 These complementary resources separate durable research-method guidance from fast-changing tools and workflows:
@@ -45,10 +49,6 @@ The stable, versioned core resource for psychologists adopting AI-assisted resea
 #### [Psychology Researcher AI Start Guide](https://How-Tze.github.io/psych-ai-start-guide/)
 
 The dynamic companion to the handbook, covering current products, APIs, coding agents, and changing research workflows. It is maintained separately so time-sensitive guidance can evolve without displacing the handbook's stable core.
-
-## Currently building
-
-The next planned public demonstration is a **Survey Harmonization Toolkit** for multi-source survey auditing, variable mapping, coverage analysis, and reproducible harmonization using synthetic or publication-safe materials.
 
 ## Working principles
 
